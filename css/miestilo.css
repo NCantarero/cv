@@ -1,0 +1,117 @@
+
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.fondo_morado{
+    background-color:rgb(59, 4, 59);
+}
+
+#top_bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+i{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a{
+    color: #222222;
+}
+
+#hero{
+    background-image: computadora.jpg;
+      background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+
+}
+
+.color_morado{
+    color: rgb(61, 5, 61);
+}
+
+#servicios{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.padding_arriba_abajo{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.sombras{
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.sombras2{
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.letragrande{
+    font-size: 40px;
+}
+
+.separadoabajo{
+    margin-bottom: 20px;
+}
+
+
+.fondo_morado2{
+    background-color: #c49dbf;
+}
+
+.botonazul{
+    background-color: #afd2ff;
+}
+
+.padding_titulo{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.separadoizquierda{
+    padding-left: 30px;
+}
+
+.padding_lados{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.paddingabajo{
+    padding-bottom: 30px;
+}
+
+.cajadeservicios{
+    border: 1px solid rgb(191, 191, 191);
+    text-align: center;
+    padding: 80px 20px;
+}
+
+
+.paddingarriba{
+    padding-top: 30px;
+}
+
+.pa_marcas{
+    padding-left: 10px;
+    padding-right: 10px;
+}
